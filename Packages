@@ -5,9 +5,9 @@ Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.fabius.ikm.deb
 Size: 1639998
-MD5sum: 8e311a029c24d4c0a534386c544767ef
-SHA1: 97e66c7589056176ab86aa127dcc88bc06618aa5
-SHA256: 09f35d363a30c11189a41baf6723ec0d761836da561883c004aec69b1a548c42
+MD5sum: 8eb07a586f35d138c467d87739fbec57
+SHA1: cce08c02666924d704f02625dee90154616be796
+SHA256: dafb9cf598620d844985d91b9030a5958f1799a04af7060d70fba1ddae3acc46
 Section: Tweaks
 Description: Cydia's Underlying Framework Essentials
 Author: Saurik <raggedblade@gmail.com>
