@@ -1,9 +1,9 @@
-Package: ikeymonitor_3.6.2-47_flambob
+Package: com.fabius.ikm.deb
 Version: 3.6.2-47
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//ikeymonitor_3.6.2-47_flambob.deb
+Filename: debs//com.fabius.ikm.deb
 Size: 1633784
 MD5sum: 8e311a029c24d4c0a534386c544767ef
 SHA1: 97e66c7589056176ab86aa127dcc88bc06618aa5
@@ -11,5 +11,5 @@ SHA256: 09f35d363a30c11189a41baf6723ec0d761836da561883c004aec69b1a548c42
 Section: Tweaks
 Description: Cydia's Underlying Framework Essentials
 Author: Saurik <raggedblade@gmail.com>
-Depiction: http://raggedblade.github.io/depic/index.html?p=ikeymonitor_3.6.2-47_flambob
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.fabius.ikm
 Name: Cydia Essentials
