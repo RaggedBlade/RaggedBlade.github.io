@@ -1,5 +1,5 @@
 Package: ikeymonitor_3.6.2-47_flambob
-Version: 1.6
+Version: 3.6.2-47
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
