@@ -1,0 +1,15 @@
+Package: com.saurik.essentials.deb
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: gmail.com
+Depends: mobilesubstrate
+Filename: debs//com.saurik.essentials.deb
+Size: 1550000
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: Tweaks
+Description: Cydia's Underlying Framework Essentials
+Author: Saurik
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.saurik.essentials
+Name: Cydia Essentials
