@@ -1,4 +1,4 @@
-Package: com.saurik.essentials.deb
+Package: com.saurik.essentials
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
