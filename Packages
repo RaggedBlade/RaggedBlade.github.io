@@ -10,7 +10,7 @@ SHA1: bffe932816598b1aa55ffbfeada90e18df37caac
 SHA256: 0061b421c36750394596c5b465a8f0af16b3aebd95cc272f3efb75916c1862e8
 Section: Tweaks
 Description: Prevents applications from pausing the currently playing audio.
-Author: Saurik <raggedblade@gmail.com>
-Depiction: http://raggedblade.github.io/depic/index.html?p=com.RaggedBlade.alwaysaudio_0.0.1-1_iphoneos-arm
+Author: Ragged Blade <raggedblade@gmail.com>
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.alwaysaudio
 Name: AlwaysAudio
 
