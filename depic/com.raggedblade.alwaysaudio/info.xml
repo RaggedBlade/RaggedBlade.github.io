@@ -1,19 +1,23 @@
 <package>
-	<id>com.raggedblade.alwaysaudio</id>
-	<name>Full Package</name>
-	<version>1.0</version>
+	<id>com.supermamon.oldpackage</id>
+	<name>AlwaysAudio</name>
+	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
+			<otherVersions>uncomfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>mobilesubstrate</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Initial Release</description>
+		<description>Stops Applications from killing your audio.</description>
 	</descriptionlist>
+	<screenshots></screenshots>
 	<changelog>
-		<change>Initial Release</change>
+		<change>Initial release</change>
 	</changelog>
+	<links></links>
 </package>
