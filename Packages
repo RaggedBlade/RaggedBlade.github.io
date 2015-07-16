@@ -1,15 +1,16 @@
-Package: com.fabius.ikm.deb
-Version: 3.6.2-47
+Package: com.RaggedBlade.alwaysaudio_0.0.1-1_iphoneos-arm.deb
+Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
-Filename: debs//com.fabius.ikm.deb
-Size: 1639998
-MD5sum: 8eb07a586f35d138c467d87739fbec57
-SHA1: cce08c02666924d704f02625dee90154616be796
-SHA256: dafb9cf598620d844985d91b9030a5958f1799a04af7060d70fba1ddae3acc46
+Filename: debs//com.RaggedBlade.alwaysaudio_0.0.1-1_iphoneos-arm.deb
+Size: 
+MD5sum: 
+SHA1: 
+SHA256: 
 Section: Tweaks
-Description: Cydia's Underlying Framework Essentials
+Description: Prevents applications from pausing the currently playing audio.
 Author: Saurik <raggedblade@gmail.com>
-Depiction: http://raggedblade.github.io/depic/index.html?p=com.fabius.ikm
-Name: Cydia Essentials
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.RaggedBlade.alwaysaudio_0.0.1-1_iphoneos-arm
+Name: AlwaysAudio
+
