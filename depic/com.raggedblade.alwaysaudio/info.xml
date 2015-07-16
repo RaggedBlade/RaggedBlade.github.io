@@ -1,7 +1,7 @@
 <package>
 	<id>com.raggedblade.alwaysaudio</id>
 	<name>Full Package</name>
-	<version>0.0.1-1</version>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
