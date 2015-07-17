@@ -7,7 +7,7 @@ Filename: debs//com.raggedblade.alwaysaudio.deb
 Size: 2974
 MD5sum: cfc3fa51541aa5017d347bf86773b08f
 SHA1: 6e7315689de592a4b7373832d8a2225e71ac29d0
-SHA256: 6e7315689de592a4b7373832d8a2225e71ac29d0
+SHA256: ba542b0f4319322eb512a10b3e8974af7aabfaa8a41712f34ca1f0a83c6857f7
 Section: Tweaks
 Description: Prevents applications from pausing the currently playing audio.
 Author: Ragged Blade <raggedblade@gmail.com>
