@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.raggedblade.alwaysaudio.deb
-Size: 2974
-MD5sum: cfc3fa51541aa5017d347bf86773b08f
-SHA1: 6e7315689de592a4b7373832d8a2225e71ac29d0
-SHA256: ba542b0f4319322eb512a10b3e8974af7aabfaa8a41712f34ca1f0a83c6857f7
+Size: 2968
+MD5sum: d354730ca7f7aa50afa94856ce68a3fd
+SHA1: bffe932816598b1aa55ffbfeada90e18df37caac
+SHA256: 0061b421c36750394596c5b465a8f0af16b3aebd95cc272f3efb75916c1862e8
 Section: Tweaks
 Description: Prevents applications from pausing the currently playing audio.
 Author: Ragged Blade <raggedblade@gmail.com>
