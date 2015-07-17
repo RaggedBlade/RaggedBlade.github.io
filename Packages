@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.raggedblade.alwaysaudio.deb
-Size: 2968
+Size: 2974
 MD5sum: d354730ca7f7aa50afa94856ce68a3fd
 SHA1: bffe932816598b1aa55ffbfeada90e18df37caac
 SHA256: 0061b421c36750394596c5b465a8f0af16b3aebd95cc272f3efb75916c1862e8
