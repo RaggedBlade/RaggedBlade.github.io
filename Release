@@ -1,9 +1,9 @@
-Origin: RaggedBlade's Repo
-Label: RaggedBlade's Repo
+Origin: RaggedBlade's Beta Repo
+Label: RaggedBlade's Beta Repo
 Suite: stable
 Version 1.0
 Codename: RaggedBlade
 Architectures: iphoneos-arm
 Components: main
-Description: RaggedBlade's Repo
+Description: RaggedBlade's Beta Repo
 MD5Sum:
