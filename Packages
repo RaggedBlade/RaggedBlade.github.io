@@ -9,6 +9,7 @@ MD5sum: d354730ca7f7aa50afa94856ce68a3fd
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Name: AlwaysAudio
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.alwaysaudio
 
 Package: com.raggedblade.nolsdate
 Version: 1.0-4
@@ -21,4 +22,5 @@ MD5sum: 9a0345970718da144ceeb36d47bdf592
 Section: Tweaks
 Description: Removes date from lockscreen.
 Name: NoLSDate
+Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.nolsdate
 
