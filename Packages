@@ -1,4 +1,4 @@
-Package: com.raggedblade.alwaysaudio.deb
+Package: com.raggedblade.alwaysaudio
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
