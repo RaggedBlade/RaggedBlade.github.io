@@ -20,6 +20,7 @@ Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
 Depends: mobilesubstrate
 Filename: debs//com.raggedblade.nolsdate.deb
+Size: 2976
 MD5sum: a141c03332508fd1643ecac0966eadee
 SHA1: 5e63e06d8323b30383e11a6dfd1eb108af096b6d
 SHA256: 7132e4a48962e92fbbaf3b38a697cabd8ec6b11311fb334e8b07abec581035b7
