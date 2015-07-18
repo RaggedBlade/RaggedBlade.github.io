@@ -14,7 +14,7 @@ Author: Ragged Blade <raggedblade@gmail.com>
 Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.alwaysaudio
 Name: AlwaysAudio
 
-Package: com.raggedblade.nolsdate
+Package: com.raggedblade.nolsdate.deb
 Version: 1.0-1
 Architecture: iphoneos-arm
 Maintainer: raggedblade <raggedblade@gmail.com>
