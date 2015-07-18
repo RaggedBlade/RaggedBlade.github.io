@@ -2,7 +2,6 @@ Package: com.RaggedBlade.alwaysaudio
 Version: 0.0.1-1
 Architecture: iphoneos-arm
 Maintainer: Ragged Blade
-Installed-Size: 72
 Depends: mobilesubstrate
 Filename: /Users/Steve/Documents/RaggedBlade.github.io/debs///com.raggedblade.alwaysaudio.deb
 Size: 2968
@@ -14,7 +13,6 @@ Package: com.raggedblade.nolsdate
 Version: 1.0-4
 Architecture: iphoneos-arm
 Maintainer: Ragged Blade
-Installed-Size: 72
 Depends: mobilesubstrate
 Filename: /Users/Steve/Documents/RaggedBlade.github.io/debs///com.raggedblade.nolsdate.deb
 Size: 3086
