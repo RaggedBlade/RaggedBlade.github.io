@@ -1,31 +1,24 @@
-Package: com.raggedblade.alwaysaudio
-Version: 1.0-1
+Package: com.RaggedBlade.alwaysaudio
+Version: 0.0.1-1
 Architecture: iphoneos-arm
-Maintainer: raggedblade <raggedblade@gmail.com>
+Maintainer: Ragged Blade
+Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.raggedblade.alwaysaudio.deb
+Filename: /Users/Steve/Documents/RaggedBlade.github.io/debs///com.raggedblade.alwaysaudio.deb
 Size: 2968
 MD5sum: d354730ca7f7aa50afa94856ce68a3fd
-SHA1: bffe932816598b1aa55ffbfeada90e18df37caac
-SHA256: 0061b421c36750394596c5b465a8f0af16b3aebd95cc272f3efb75916c1862e8
 Section: Tweaks
-Description: Prevents applications from pausing the currently playing audio.
-Author: Ragged Blade <raggedblade@gmail.com>
-Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.alwaysaudio
-Name: AlwaysAudio
+Description: An awesome MobileSubstrate tweak!
 
 Package: com.raggedblade.nolsdate
-Version: 1.0-1
+Version: 1.0-4
 Architecture: iphoneos-arm
-Maintainer: raggedblade <raggedblade@gmail.com>
+Maintainer: Ragged Blade
+Installed-Size: 72
 Depends: mobilesubstrate
-Filename: debs//com.raggedblade.nolsdate.deb
-Size: 2976
-MD5sum: a141c03332508fd1643ecac0966eadee
-SHA1: 5e63e06d8323b30383e11a6dfd1eb108af096b6d
-SHA256: 7132e4a48962e92fbbaf3b38a697cabd8ec6b11311fb334e8b07abec581035b7
+Filename: /Users/Steve/Documents/RaggedBlade.github.io/debs///com.raggedblade.nolsdate.deb
+Size: 3086
+MD5sum: 9a0345970718da144ceeb36d47bdf592
 Section: Tweaks
 Description: Removes date from lockscreen.
-Author: Ragged Blade <raggedblade@gmail.com>
-Depiction: http://raggedblade.github.io/depic/index.html?p=com.raggedblade.nolsdate
-Name: NoLSDate
+
